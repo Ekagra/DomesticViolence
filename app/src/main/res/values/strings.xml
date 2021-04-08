@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Domestic Violence Walkthrough</string>
+
+    <string name="first">Given the rise of domestic violence which has exacerbated during COVID 19 lockdowns it is very necessary for women across all ages
+        to have resources for education about these violence and how to stand up against it if you are the victim.
+        \n\n
+        <br>In this app we have tried to compile these resources such that it helps every women out there who is under the risk of this offense.</br>
+    </string>
+
+    <string name="info">Domestic violence can be broadly defined as a pattern of abusive behaviors by one or both partners in an intimate relationship such
+        as marriage, dating, family, friends or cohabitation
+        \n\n
+        <br>■ It is the establishment of control and fear in a relationship through violence and other forms of abuse.</br>
+        \n \n
+        <br>■ The violence may involve physical abuse, sexual assault, social abuse and threats.</br>
+    </string>
+
+    <string name="info2">
+       ■ The abuser tortures and controls the victim by calculated threats, intimidation, and physical violence.
+        \n\n
+        <br>■ In most cases, the victims are women. Children in homes where there is domestic violence are also abused or neglected.</br>
+       \n\n
+        <br>■ Domestic violence is a CRIME and you must seek help.</br>
+    </string>
+
+
+    <string name="law1">
+        Protection of Women against Domestic Violence Act, 2005
+        \n\n
+        <br>■ This is an act of the Indian Parliament enacted to protect women from Domestic Violence.</br>
+        \n \n
+        <br>■ It prohibits a wide range of Physical, Sexual, Emotional and Economical abuse against women
+and all these are broadly defined under the Act.</br>
+        \n \n
+        <br>■ This law is to guarantee that women don’t get kicked out of their own house and can support themselves if they have been abused.</br>
+    </string>
+
+    <string name="law2">
+        Section 498A of the IPC (Indian Penal Code)
+        \n\n
+        <br>■ This is a Criminal Law, which applies to husbands or family members of husband who are merciless to women. This harassment can be of any type either Physical or Mental. </br>
+        \n \n
+        <br>■ It also includes any and all intentional behaviours against a women which force the women to attempt suicide or risk to life or grave injury or risk to limb or overall health.</br>
+         \n \n
+        <br>■
+A complaint can also be lodged under Section 498A of Indian Penal Code for Cruelty which also falls under DOMESTIC VIOLENCE.</br>
+
+    </string>
+
+    <string name="law3">
+        Dowry Prohibition Act, 1961
+        \n\n
+        <br>■ This is a Criminal Law that punishes the giving and taking of Dowry. The tradition of dowry itself is banned under the Dowry Prohibition Act, 1961.</br>
+        \n \n
+        <br>■  According to this law, gives, takes or even demands dowry, they can be imprisoned for a half year (i.e. for 6 months) or they can be fined upto Five Thousand Rupees.</br>
+    </string>
+
+    <string name="helpline">
+        <br>Nation Commission for Women: 7217735372</br>
+        \n\n
+        <br>Domestic Voilence Helpline Pune: 8793988814</br>
+         \n\n
+        <br>All India Womens Confrence Delhi: (011) 23389680</br>
+         \n\n
+        <br>Womens Helpline Banglore: 080-22943225</br>
+         \n\n
+        <br>Womens Helpline Mumbai:022-22633333</br>
+    </string>
+
+
+</resources>
